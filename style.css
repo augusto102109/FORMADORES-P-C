@@ -2,6 +2,8 @@ body {
     background-color: rgb(8, 8, 8);
     color: rgb(255, 255, 255);
 font-family: "Chakra Petch", sans-serif;
+margin:0px;
+
 }
 
 h1{
@@ -12,3 +14,6 @@ p{
 font-size: 20px;
 }
     
+header {
+    border: solid 2px rgb(42,122,228);
+}
